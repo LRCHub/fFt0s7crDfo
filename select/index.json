@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Hayloft",
+  "base_artist": "Mother Mother",
+  "createdAt": "2026-01-01T14:39:11.797523Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/01_Hayloft_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Crypto feat. Jake Daniels",
+      "has_synced": true,
+      "path": "select/02_Hayloft_Crypto_feat._Jake_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Crypto & Jake Daniels",
+      "has_synced": true,
+      "path": "select/03_Hayloft_Crypto_&_Jake_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/04_Hayloft_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hayloft II",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/05_Hayloft_II_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Hayloft II",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/06_Hayloft_II_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Nickel Creek",
+      "has_synced": true,
+      "path": "select/07_Hayloft_Nickel_Creek.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/08_Hayloft_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Hayloft II",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/09_Hayloft_II_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hayloft II (Dark Verb Mix)",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/10_Hayloft_II_(Dark_Verb_Mix)_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Hayloft",
+      "artist": "Crypto & Jake Daniels",
+      "has_synced": true,
+      "path": "select/11_Hayloft_Crypto_&_Jake_Daniels.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Hayloft II",
+      "artist": "Mother Mother - Topic",
+      "has_synced": true,
+      "path": "select/12_Hayloft_II_Mother_Mother_-_Topic.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Hayloft II",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/13_Hayloft_II_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hayloft II (Lyric Video)",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/14_Hayloft_II_(Lyric_Video)_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Hayloft - Live Sessions",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/15_Hayloft_-_Live_Sessions_Mother_Mother.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hayloft II (SMASHUP)",
+      "artist": "Mother Mother",
+      "has_synced": true,
+      "path": "select/16_Hayloft_II_(SMASHUP)_Mother_Mother.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Hayloft",
+      "artist": "Mother Mother",
+      "has_synced": false,
+      "path": "select/pl_01_Hayloft_Mother_Mother.txt"
+    }
+  ]
+}
